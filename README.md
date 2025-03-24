@@ -1,4 +1,4 @@
-# Vernier
+# Vernier - 1TDSPK
 
 Next-generation Ruby 3.2.1+ sampling profiler. Tracks multiple threads, GVL activity, GC pauses, idle time, and more.
 
